@@ -1,0 +1,22 @@
+{
+  "name": "husky-6-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorupp/husky-6-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorupp/husky-6-test/issues"
+  },
+  "homepage": "https://github.com/jorupp/husky-6-test#readme",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
